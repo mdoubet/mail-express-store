@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 export default class extends Component {
     render() {
         return (
-            <h1>Boxes Category</h1>
+            <h1>Shipping Boxes Category</h1>
         );
     }
 }
